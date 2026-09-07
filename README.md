@@ -4,11 +4,6 @@
 
 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
-
 ---
 
 ## 🌐 Where to find me
@@ -49,19 +44,3 @@ I also create content and share knowledge on **software development, SaaS, and t
   <img height="170"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBratz&layout=compact&theme=tokyonight" />
 </p>
-
-
-<!--
-**ThiagoBratz/ThiagoBratz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
