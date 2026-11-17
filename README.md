@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+%7C+FastAPI+%7C+PostgreSQL;Construindo+coisas+para+a+web;Aprendendo+algo+novo+todo+dia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+%7C+FastAPI+%7C+PostgreSQL;Transformando+processos+bagunçados+em+sistemas+que+funcionam" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 🌐 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GITHUB-THIAGOBRATZ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoBratz)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@THIAGO.BRATZ-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiago.bratz)
+[![Linkedin](https://www.linkedin.com/in/thiago-bratz-31353a413/)
 
 ---
 
@@ -55,14 +55,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoBratz&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições" />
 </p>
 
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThiagoBratz&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Troféus" />
-</p>
-
 ---
 
 ## 📫 Contato
-
-Fique à vontade para falar comigo pelo Instagram ou pelos links acima.
+Para entrar em contato comigo envie um e-mail para bratzthiagokaleu@gmail.com
