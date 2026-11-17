@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+%7C+FastAPI+%7C+PostgreSQL;Transformando+processos+bagunçados+em+sistemas+que+funcionam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%7C+FastAPI+%7C+PostgreSQL;Transformando+processos+bagun%C3%A7ados+em+sistemas+que+funcionam" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 🌐 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GITHUB-THIAGOBRATZ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoBratz)
-[![Linkedin](https://www.linkedin.com/in/thiago-bratz-31353a413/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-THIAGO%20BRATZ-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/thiago-bratz-31353a413/)
 
 ---
 
@@ -49,13 +49,8 @@
   <img src="https://streak-stats.demolab.com?user=ThiagoBratz&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
-## 📈 Gráfico de Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoBratz&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições" />
-</p>
-
 ---
 
 ## 📫 Contato
-Para entrar em contato comigo envie um e-mail para bratzthiagokaleu@gmail.com
+
+Para entrar em contato comigo, envie um e-mail para [bratzthiagokaleu@gmail.com](mailto:bratzthiagokaleu@gmail.com).
