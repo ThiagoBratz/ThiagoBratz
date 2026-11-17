@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Thiago Bratz</h1>
 
 <p align="center">
-  <b>🚀 Estudante de Engenharia de Software | experiência em Python</b><br>
+  <b>Estudante de Análise e Desenvolvimento de sistemas </b><br>
   📍 Porto Alegre, RS — Brasil
 </p>
 
