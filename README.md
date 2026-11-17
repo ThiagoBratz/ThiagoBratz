@@ -41,11 +41,6 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ThiagoBratz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBratz&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=ThiagoBratz&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
